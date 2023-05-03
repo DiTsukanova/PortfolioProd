@@ -12,7 +12,7 @@
 Проект представляет собой адаптивную верстку лендинга.
 <hr>
 <h3>Ознакомится с проектом можно по ссылке:</h3>
-https://ditsukanova.github.io/Portfolio/
+https://ditsukanova.github.io/PortfolioProd/
 <br>
 <h3>Код:</h3>
 https://github.com/DiTsukanova/PortfolioProd/tree/master
