@@ -6,7 +6,6 @@
 <li>SCSS</li>
 <li>Webpack</li>
 <br>
-API:
 <hr>
 <h3>О проекте:</h3>
 <br>
@@ -15,3 +14,6 @@ API:
 <h3>Ознакомится с проектом можно по ссылке:</h3>
 https://ditsukanova.github.io/Portfolio/
 <br>
+<h3>Код</h3>
+<h3>Код:</h3>
+https://github.com/DiTsukanova/PortfolioProd/tree/master
